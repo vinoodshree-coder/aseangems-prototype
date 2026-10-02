@@ -1,0 +1,7 @@
+# Local backups from earlier edits
+page.backup.html
+page.before-dashboard-merge.html
+
+# Saved-page leftovers; index.html has its styles and scripts inline
+scripts.js
+styles.css
